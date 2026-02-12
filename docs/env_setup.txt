@@ -1,0 +1,14 @@
+conda create -n S3 python=3.12 -c conda-forge -y
+conda activate S3
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+conda install xarray zarr -y
+conda install zstandard python-lmdb duckdb -y
+conda install rasterio rioxarray geopandas -y
+conda install ipykernel s3fs -y
+conda install h5netcdf -y
+conda install tqdm -y
+conda install pyarrow -y
+conda install scikit-learn -y
+conda install dask -y
+conda install captum -c pytorch -y
+conda install scikit-image -y

@@ -2,6 +2,8 @@
 
 A multimodal transformer-based deep learning system for predicting deadwood occurrence and forest characteristics from satellite and climate data. The model integrates satellite imagery, elevation, canopy density, ERA5 climate data, and other geospatial features to forecast deadwood and forest dynamics.
 
+This repository is currently in alpha stage. If you have any questions feel free to reach out.
+
 ## Table of Contents
 
 - [Overview](#overview)

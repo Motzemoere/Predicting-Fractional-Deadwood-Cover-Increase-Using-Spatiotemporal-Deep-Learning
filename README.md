@@ -10,10 +10,6 @@ A multimodal transformer-based deep learning system for predicting deadwood occu
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Data Pipeline](#data-pipeline)
-- [Training](#training)
-- [Inference](#inference)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
 
 ## Overview
 
